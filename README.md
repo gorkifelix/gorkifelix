@@ -11,8 +11,6 @@ Come and check out my YOUTUBE channel for lots more information -> https://www.y
 ## App Setup (localhost)
 
 ```
-git clone https://github.com/John-Weeks-Dev/AliExpress-clone.git
-
 cp .env.example .env
 
 npm i
