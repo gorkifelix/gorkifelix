@@ -19,8 +19,8 @@
                     <div class="text-[#999999] text-sm">All Popular, Product, Promotion, Low Price, Great Value, Reviews, Blog, Seller Portal, BLACK FRIDAY, LDB-X Assistant</div>
                 </div>
                 <div class="md:w-[50%] pt-4">
-                    <div class="text-lg font-semibold text-[#282828]">Alibaba Group</div>
-                    <div class="text-[#999999] text-sm">LDB-X Group Website, LDB-X, Alimama, Alipay, Fliggy, Alibaba Cloud, Alibaba International, AliTelecom, DingTalk, Juhuasuan, Taobao Marketplace, Tmall, Taobao Global, AliOS, 1688</div>
+                    <div class="text-lg font-semibold text-[#282828]">LDB-X Group</div>
+                    <div class="text-[#999999] text-sm">LDB-X Group Website, LDB-X, Alimama, Alipay, Fliggy, LDB-X Cloud, LDB-X International, AliTelecom, DingTalk, Juhuasuan, Taobao Marketplace, Tmall, Taobao Global, AliOS, 1688</div>
                 </div>
             </div>
 
